@@ -71,8 +71,8 @@ node {
       num_layers: 6
       min_scale: 0.2
       max_scale: 0.95
-      input_size_height: 320
-      input_size_width: 320
+      input_size_height: 300
+      input_size_width: 300
       anchor_offset_x: 0.5
       anchor_offset_y: 0.5
       strides: 16
